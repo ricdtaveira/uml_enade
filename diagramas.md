@@ -17,11 +17,16 @@ Relacionamentos e Notações
 
 
 Tipo	Notação Visual	Significado
-Associação	Linha contínua (———)	Conexão estrutural entre classes. Pode ter setas de navegabilidade (—>).
-Agregação	Losango vazio na ponta (◇———)	Relação "todo-parte" fraca. A parte existe sem o todo (ex: Time e Jogador).
-Composição	Losango preenchido na ponta (◆———)	Relação "todo-parte" forte. Se o todo é apagado, a parte também é (ex: Pedido e Item).
-Herança (Generalização)	Linha contínua com triângulo vazio (———▷)	Subclasse herda da superclasse (relação "é um").
-Realização (Interface)	Linha tracejada com triângulo vazio (- - -▷)	Classe implementa os contratos de uma interface.
+Associação	Linha contínua (———)	
+Conexão estrutural entre classes. Pode ter setas de navegabilidade (—>).
+Agregação	Losango vazio na ponta (◇———)	
+Relação "todo-parte" fraca. A parte existe sem o todo (ex: Time e Jogador).
+Composição	Losango preenchido na ponta (◆———)	
+Relação "todo-parte" forte. Se o todo é apagado, a parte também é (ex: Pedido e Item).
+Herança (Generalização)	
+Linha contínua com triângulo vazio (———▷)	Subclasse herda da superclasse (relação "é um").
+Realização (Interface)	
+Linha tracejada com triângulo vazio (- - -▷)	Classe implementa os contratos de uma interface.
 Dependência	Linha tracejada com seta aberta (- - ->)	Uso temporário (ex: uma classe recebe outra como parâmetro de método).
 
 
@@ -64,8 +69,3 @@ Modela o ciclo de vida e as mudanças de estado de um único objeto diante de ev
 • Estado: Retângulo com cantos arredondados representando uma situação duradoura do objeto (ex: Aguardando Pagamento, Enviado).
 • Transição: Seta contínua (—>) ligando um estado a outro.
 • Rótulo da Transição: Segue a sintaxe evento [condição de guarda] / ação (ex: pagar [valor correto] / emitirRecibo()).
-Agora que você tem a base teórica e questões comentadas, como prefere continuar sua preparação?
-• Gerar um simulado interativo com questões inéditas no estilo ENADE para testar seus conhecimentos?
-• Aprofundar em algum diagrama específico onde você tenha mais dificuldade?
-Se quiser o simulado, me diga quantas questões (até 25) você gostaria de resolver agora.
-

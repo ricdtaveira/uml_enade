@@ -73,6 +73,4 @@ A prova apresenta um estudo de caso ou histórias de usuário e pede para você 
 Algumas questões cruzam um diagrama de classes ou de sequência com trechos de código em linguagens orientadas a objetos (como Java ou C#) para verificar se a implementação respeita o modelo. 
 [1] (https://www.youtube.com/watch?v=qirNw9f2NpM&t=20), [2] (https://engsoftmoderna.info/cap4.html)
 
-Para direcionar melhor seus estudos, você gostaria de:
-Resolver questões comentadas de UML de edições anteriores do ENADE?Revisar um resumo prático dos principais diagramas e suas notações?
-Me informe também qual é o seu curso (Ciência da Computação, Sistemas de Informação, ADS ou Engenharia de Software) para que eu adapte o nível de profundidade.
+
