@@ -1,6 +1,7 @@
 
 
-Na prova do ENADE (para os cursos de Ciência da Computação, Sistemas de Informação, Engenharia de Software e Análise e Desenvolvimento de Sistemas), a UML (Linguagem de Modelagem Unificada) é cobrada na área de Engenharia de Software e Programação Orientada a Objetos. [1] (https://www.youtube.com/watch?v=qirNw9f2NpM&t=20), 
+Na prova do ENADE (para os cursos de Ciência da Computação, Sistemas de Informação, Engenharia de Software e Análise e Desenvolvimento de Sistemas), a UML (Linguagem de Modelagem Unificada) é cobrada na área de Engenharia de Software e Programação Orientada a Objetos. 
+[1] (https://www.youtube.com/watch?v=qirNw9f2NpM&t=20), 
 [2] (https://engsoftmoderna.info/cap4.html)
 A matriz de referência do INEP não lista tópicos isolados da UML, mas exige a competência de analisar e projetar sistemas. 
 Nas edições do exame, os assuntos mais recorrentes são diagramas principais e interpretação de cenários práticos. [1] (https://medium.com/@michelelozada/um-pequeno-roteiro-para-o-enade-2024-6026744882de), 
