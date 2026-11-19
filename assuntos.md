@@ -1,14 +1,19 @@
 
 
-Na prova do ENADE (para cursos de Ciência da Computação, Sistemas de Informação, Engenharia de Software e Análise e Desenvolvimento de Sistemas), a UML (Linguagem de Modelagem Unificada) é cobrada dentro da área de Engenharia de Software e Programação Orientada a Objetos. [1] (https://www.youtube.com/watch?v=qirNw9f2NpM&t=20), [2] (https://engsoftmoderna.info/cap4.html)
+Na prova do ENADE (para os cursos de Ciência da Computação, Sistemas de Informação, Engenharia de Software e Análise e Desenvolvimento de Sistemas), a UML (Linguagem de Modelagem Unificada) é cobrada na área de Engenharia de Software e Programação Orientada a Objetos. [1] (https://www.youtube.com/watch?v=qirNw9f2NpM&t=20), [2] (https://engsoftmoderna.info/cap4.html)
 A matriz de referência do INEP não lista tópicos isolados da UML, mas exige a competência de analisar e projetar sistemas. Nas edições do exame, os assuntos mais recorrentes se concentram nos diagramas principais e na interpretação de cenários práticos. [1] (https://medium.com/@michelelozada/um-pequeno-roteiro-para-o-enade-2024-6026744882de), [2] (https://pt.scribd.com/document/407302285/Avaliacao-UML)
 
 1. Diagramas Estruturais (Visão Estática)
 
-Esses diagramas avaliam como o sistema é organizado em termos de código, dados e arquitetura. [1] (https://concursos.estrategia.com/portal/engenharia-software-diagramas-estruturais-uml/), [2] (https://blog.grancursosonline.com.br/diagrama-uml/)
+Esses diagramas avaliam como o sistema é organizado em termos de código, dados e arquitetura.
+[1] (https://concursos.estrategia.com/portal/engenharia-software-diagramas-estruturais-uml/), 
+[2] (https://blog.grancursosonline.com.br/diagrama-uml/)
+
 • Diagrama de Classes. É o tema mais cobrado, tanto em questões objetivas quanto discursivas. Exige domínio sobre visibilidade (+, -, #), atributos, métodos e os tipos de relacionamento (associação, agregação, composição, generalização/herança e dependência), além de cardinalidade/multiplicidade. [1] (https://engsoftmoderna.info/cap4.html), [2] (https://medium.com/@michelelozada/um-pequeno-roteiro-para-o-enade-2024-6026744882de), [3] (https://blog.grancursosonline.com.br/diagrama-uml/)
 • Diagrama de Componentes e Implantação. Aparecem em questões sobre arquitetura de software. Avaliam a divisão do sistema em módulos reutilizáveis e a distribuição física em servidores ou nós de hardware. [1] (https://blog.grancursosonline.com.br/diagrama-uml/), [2] (https://concursos.estrategia.com/portal/engenharia-software-diagramas-estruturais-uml/)
-• Diagrama de Objetos e Pacotes. Cobrados de forma complementar para testar instâncias específicas em tempo de execução ou a organização lógica de classes. [1] (https://concursos.estrategia.com/portal/engenharia-software-diagramas-estruturais-uml/), [2] (https://blog.grancursosonline.com.br/diagrama-uml/)
+• Diagrama de Objetos e Pacotes. Cobrados de forma complementar para testar instâncias específicas em tempo de execução ou a organização lógica de classes. 
+[1] (https://concursos.estrategia.com/portal/engenharia-software-diagramas-estruturais-uml/), 
+[2] (https://blog.grancursosonline.com.br/diagrama-uml/)
 
 2. Diagramas Comportamentais e de Interação (Visão Dinâmica)
 
